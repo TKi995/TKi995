@@ -1,7 +1,9 @@
 ## Hello 🖤
 ☁️ Data Science and Analysis <br>
 
-🌱 leungtszki995@gmail.com
+🌱 leungtszki995@gmail.com <br>
+
+💬 www.linkedin.com/in/tsz-ki-leung-hk692319281
 
 <!--
 **TKi995/TKi995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
